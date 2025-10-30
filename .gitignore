@@ -1,6 +1,7 @@
 .classpath
 .project
 .settings/
+.launch/
 bin/
 target/
 *.class
